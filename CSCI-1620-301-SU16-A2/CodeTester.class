@@ -1,0 +1,148 @@
+ ˛∫æ   3e
+ j ú
+ j ù
+ j û
+ k ü	 j † °
+  ü
+  ¢ £
+  §	 j • ¶
+ ß ® ©
+  ü	 j ™
+ ´ ¨ ≠
+ Æ Ø ∞
+  ± ≤ ≥
+ ´ ¥ µ	 l ∂	 j ∑ ∏	 l π ∫ ª
+ º Ω
+  æ ø
+  ¿ ¡
+ ¬ √
+ ¬ ƒ ≈ ∆
+ « »
+ ( …
+ '  
+ « À Ã Õ
+ . Œ
+ - œ
+ - – —
+ « “
+ 2 ”
+ Æ ‘ ’
+  ÷
+  ◊ ÿ Ÿ
+  ⁄
+  €
+  ‹ ›
+ ﬁ ﬂ
+ - ‡ · ‚	 j „ ‰ o
+ D Â
+  Ê
+ 2 Á
+ 2 Ë
+ 2 È
+ ' Í
+ ' Î	 º Ï
+ Ì Á	 D Ó	 D Ô
+  Ò	 º Ú Û Ù ı ˆ
+ Æ ˜ ¯
+  ˘ ˙ ˚
+  ¸ ˝ ˛
+  ˇ 
+
+ d
+ û
+ d		
+
+
+ Language InnerClasses   	_ENCODING Ljava/nio/charset/Charset; 
+_testCaseFile Ljava/lang/String; _testResultFile 	_language LCodeTester$Language; 
+Input_Delay I <init> ()V Code LineNumberTable main ([Ljava/lang/String;)V 
+StackMapTable © ≠ ¶ ≈ — · 
+Exceptions assembleOutput 5(Ljava/util/List;Ljava/util/List;)[Ljava/lang/String; 	Signature E(Ljava/util/List<LLine;>;Ljava/util/List<LLine;>;)[Ljava/lang/String; 
+CompareResult 
+getTimeString ()Ljava/lang/String; getTime ()Ljava/util/Date; 
+access$000 
+access$100 
+access$200 <clinit> 
+SourceFile CodeTester.java ë ~ å ç î ï y z r s java/lang/StringBuilder Result ì t s java/lang/String java/util/ArrayList p q java/io/IOException   .java java/nio/file/LinkOption ! .JAVA" v u v java # v ./a.out os.name$%&' ì windows() a.exe*+,-. java/util/Scanner java/io/InputStreamReader/0 y1 y230 java/lang/Thread CodeTester$1 y4 y56 z java/io/PrintWriter78 y9:; //<=>? /* */>@A ìB; 	__pause__CD=EF java/lang/Exception __global_pause__ w x Line yGHIJKL zM zNOP ìQRST sUV îWXR $Cannot match input and output lines. The last output line:  The last input line:  
+Y 
+Z[ =============================== &Error: Output is longer than expected!\I Error: A mismatch was found!   Line number : ]   Expected    :    Actual      :  	No error.^_` java/text/SimpleDateFormat HH:mm:ss yKabcd q 
+CodeTester java/lang/Object CodeTester$Language [Ljava/lang/String; java/nio/file/Path java/util/List java/lang/Process java/io/InputStream java/util/Date append -(Ljava/lang/String;)Ljava/lang/StringBuilder; toString java/nio/file/Paths get ;(Ljava/lang/String;[Ljava/lang/String;)Ljava/nio/file/Path; java/nio/file/Files readAllLines @(Ljava/nio/file/Path;Ljava/nio/charset/Charset;)Ljava/util/List; (I)Ljava/lang/Object; split '(Ljava/lang/String;)[Ljava/lang/String; exists 2(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Z Java C java/lang/System 
+getProperty &(Ljava/lang/String;)Ljava/lang/String; 
+toLowerCase 
+startsWith (Ljava/lang/String;)Z java/lang/Runtime 
+getRuntime ()Ljava/lang/Runtime; exec '(Ljava/lang/String;)Ljava/lang/Process; getErrorStream ()Ljava/io/InputStream; (Ljava/io/InputStream;)V (Ljava/lang/Readable;)V getInputStream -(Ljava/io/InputStream;Ljava/util/ArrayList;)V (Ljava/lang/Runnable;)V start getOutputStream ()Ljava/io/OutputStream; (Ljava/io/OutputStream;)V size ()I indexOf (Ljava/lang/String;)I 	substring (II)Ljava/lang/String; (I)Ljava/lang/String; trim length java/lang/Integer parseInt sleep (J)V %(Ljava/util/Date;Ljava/lang/String;)V add (Ljava/lang/Object;)Z println (Ljava/lang/String;)V flush close 
+hasNextLine ()Z nextLine err Ljava/io/PrintStream; java/io/PrintStream text 	timestamp Ljava/util/Date; ()J out remove replace D(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Ljava/lang/String; equals (I)Ljava/lang/StringBuilder; java/util/Calendar 
+getInstance ()Ljava/util/Calendar; format $(Ljava/util/Date;)Ljava/lang/String; !java/nio/charset/StandardCharsets UTF_8 ! j k    
+ p q   
+ r s   
+ t s   
+ u v   
+ w x   
+  y z  {   !     *∑ ±    |   
+    `  a 	 } ~  {  ~    ®*2≥ ª Y∑ ≤ ∂ 	∂ ∂ 
+≥ 
+≤ Ω ∏ 
+LMª Y∑ N+≤ ∏ Mß :,π  ¿ ∂ :2::ª Y∑ ∂ ∂ ∂ 
+Ω ∏ 
+Ω ∏ ö (ª Y∑ ∂ ∂ ∂ 
+Ω ∏ 
+Ω ∏ ô "≤ ≥ ª Y∑ ∂ ∂ ∂ 
+:ß !≤ ≥ :∏  ∂ !"∂ #ô $:6æ¢ 'ª Y∑ ∂ ∂ 2∂ ∂ 
+:Ñßˇ◊∏ %∂ &:ª 'Yª (Y∂ )∑ *∑ +:∂ ,:	ª -Yª .Y	-∑ /∑ 0∂ 1ª 2Y∂ 3∑ 4:
+6
+6,π 5 ¢!,π  ¿ :
+
+6∂ 7õ 
+
+6∂ 7∂ 8:
+ß J
+9∂ 7õ 
+
+9∂ 7∂ 8:
+6
+ß ”
+:∂ 7õ 
+
+:∂ 7`∂ ;:
+6
+ß ≥
+ô ß ´
+∂ <:
+
+∂ =ö ß ô
+>∂ #ô '
+
+∂ 7`∂ ;∂ <∏ ?6Ö∏ @ß p:ß k
+B∂ #ô 
+
+∂ 7`∂ ;∂ <∏ ?≥ Cß G≤ ≤ ¶ ≤ CÖ∏ @ß :-ª DY∏ ª Y∑ 
+∂ E∂ ∂ 
+∑ F∂ GW
+
+∂ H
+∂ IÑß˛⁄
+∂ J∂ Kô ∂ L:≤ M∂ NßˇÈ±  3 ; >  AGNQ A  |   @   m  n  o ) p + q 3 t ; u @ w Q x W y [ { • } ´ ~ ƒ Å   Ç Œ É ﬁ Ñ ‚ á Ì à
+ á å é0 è7 ìK ≠Y Ø\ ∞j ±w ¥Å µì ∑ù ∏¨ πØ ∫≤ ºº ΩÃ æœ ø“ ¡◊ ¬⁄ ∆· «È »Ï Õˆ Œ – — ” ÷$ ◊; ÿ> ‡G ‚N „S Ëv È} ÍÇ ∞à Ìç ï Òú Ú§ Ûß Ù    § ˇ >  Ä Å Ç É  Ñ˛ d Ä Ö Ö¸ ˙ +ˇ M 
+ Ä Å Ç É Ä Ö Ö Ü á à â  ¸ 3 Öˇ (  Ä Å Ç É Ä Ö Ö Ü á à â Ö  ä˙ #R ä˙ .˙  ã      
+ å ç  {  √    @EM>*π 5 ¢&ª Y∑ ,∂ *π  ¿ D¥ O∂ ∂ 
+M*π 5 d† ß ¯*π  ¿ D¥ P:*`π  ¿ D¥ P:∂ Q∂ Qe7≤ ClÖîû π+π  ¿ D¥ P∂ Q∂ Qîû +π  ¿ D¥ P∂ Q∂ Qîû X≤ RS∂ N≤ Rª Y∑ T∂ *π  ¿ D¥ O∂ ∂ 
+∂ N≤ Rª Y∑ U∂ +π  ¿ D¥ O∂ ∂ 
+∂ Nß 8ª Y∑ ,∂ +π  ¿ D¥ O∂ V∂ ∂ 
+M+π W Wß Ñß˛÷,XV∂ YV∂ ∞    |   N    ˙  ˝  ˛ . : =	 L
+ ]
+ j v ® ∞ ’ ˙ ˝!), ˝2     ˝  Ö7˛ j é é˚ T¯ .˙  è    ê 
+ ë ~  {  ≠     ¸≤ 
+Ω ∏ 
+L+Ω ∏ ô ËM+≤ ∏ Mß N≤ RZ∂ N>*æ,π 5 § 
+≤ R[∂ N>6,π 5 ¢ +,π  ¿ ∂ <:*2∂ <∂ \ö ß 	Ñßˇ–,π 5 ¢ f≤ R]∂ N≤ Rª Y∑ ^∂ ∂ _∂ 
+∂ N≤ Rª Y∑ `∂ ,π  ¿ ∂ ∂ 
+∂ N≤ Rª Y∑ a∂ *2∂ ∂ 
+∂ N>ö 
+≤ Rb∂ N≤ RZ∂ N±     #   |   j   $ 
+& ' )  * $, ,. .0 91 A2 C5 F6 Q7 a8 p9 s6 y; Ñ< å= ¶> …? Â@ ÁC ÎD ÛF ˚M    ' 	ˇ #  Ä Å Ç  Ñ ¸ ¸ ,˚ m
+¯  
+ í ì  {   7     ∏ cKª dYe∑ fL+*∂ g∂ h∞    |      P Q R 
+ î ï  {   %     	∏ cK*∂ g∞    |   
+   V W ñ ï  {         ∏ ∞    |       ` ó ç  {        *+∏ ∞    |       ` ò ~  {        *∏ ±    |       `  ô z  {   )      
+≤ i≥ Ù≥ C±    |   
+    c  i  ö    õ n     l j m@ .     
